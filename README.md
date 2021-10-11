@@ -3,6 +3,7 @@
 [![Build Status](https://img.shields.io/appveyor/build/Gravy59/WOPR-Console?style=flat-square&logo=appveyor)](https://ci.appveyor.com/project/Gravy59/wopr-console)
 [![License](https://img.shields.io/github/license/gravy59/wopr-console.svg?label=License&style=flat-square)](https://github.com/Gravy59/WOPR-Console/blob/master/LICENSE)
 ![Repo Size](https://img.shields.io/github/repo-size/Gravy59/WOPR-Console?style=flat-square)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FGravy59%2FWOPR-Console.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FGravy59%2FWOPR-Console?ref=badge_shield)
 
 ## Description
 WOPR Console is a spoof of the War Operations Plan Response from the 1983 movie WarGames. I've designed it to imitate the original WOPR as much as possible with more plans in the future.
@@ -20,3 +21,7 @@ macOS and Linux:
 
     % sudo chmod +x /path/to/file
     % Password:
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FGravy59%2FWOPR-Console.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FGravy59%2FWOPR-Console?ref=badge_large)
